@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 950a81475a2fcf04386cbfb56ccf9378, type: 3}
+  m_Name: A0.Intro
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to the game.
+
+
+    Its a choose your own adventure. Be careful
+    what you wish for!
+
+
+    At any point in time, push "q" to restart.
+
+
+    Push
+    "1" to continue.'
+  nextState:
+  - {fileID: 11400000, guid: 3db1ca697d654ba46a71292e916b767c, type: 2}

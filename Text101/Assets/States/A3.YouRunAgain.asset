@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 950a81475a2fcf04386cbfb56ccf9378, type: 3}
+  m_Name: A3.YouRunAgain
+  m_EditorClassIdentifier: 
+  storyText: "You run again as fast as you can the opposite way, away from the girl.
+    But once more you find yourself at the exact same spot you woke up from. With
+    the girl still staring at you and approaching you everytime you blink. \n\nThis
+    is when you realize that you only have one option to end this nightmare. Which
+    is to confront the girl!\n\n1. Gather your strength, say you prayers, and hold
+    up your hand while making a peace sign, to show the girl that you come in peace."
+  nextState:
+  - {fileID: 11400000, guid: 7f8c9ec09d42fc2418991d2e3884c0ac, type: 2}
